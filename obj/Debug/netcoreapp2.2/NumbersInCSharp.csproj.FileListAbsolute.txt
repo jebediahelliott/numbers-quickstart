@@ -1,0 +1,11 @@
+/Users/jeb/dev/code/labs/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.deps.json
+/Users/jeb/dev/code/labs/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.runtimeconfig.json
+/Users/jeb/dev/code/labs/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.runtimeconfig.dev.json
+/Users/jeb/dev/code/labs/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.dll
+/Users/jeb/dev/code/labs/numbers-quickstart/bin/Debug/netcoreapp2.2/NumbersInCSharp.pdb
+/Users/jeb/dev/code/labs/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.csprojAssemblyReference.cache
+/Users/jeb/dev/code/labs/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.csproj.CoreCompileInputs.cache
+/Users/jeb/dev/code/labs/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.AssemblyInfoInputs.cache
+/Users/jeb/dev/code/labs/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.AssemblyInfo.cs
+/Users/jeb/dev/code/labs/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.dll
+/Users/jeb/dev/code/labs/numbers-quickstart/obj/Debug/netcoreapp2.2/NumbersInCSharp.pdb
